@@ -1,5 +1,9 @@
 # 历史版本下载
 
+## 1.0.18
+* 升级说明：1、支持2023.2的idea安装, 修复WaitTask
+* idea是2023.2版本的请下载：[compileflow-idea-designer-1.0.18](idea-designer/compileflow-idea-designer-1.0.18.zip)
+
 ## 1.0.16
 * 升级说明：1、支持2022.3的idea安装（感谢：chenqiyue的PR分支）
 * idea是2022.3版本的请下载：[compileflow-idea-designer-1.0.16.for.2022.3](idea-designer/compileflow-idea-designer-1.0.16.for.2022.3.zip)
